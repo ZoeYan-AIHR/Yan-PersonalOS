@@ -147,10 +147,10 @@ style: strengthen field-card interaction feedback
 
 ## 使用与版权
 
-本仓库用于展示严琰的个人职业实践、研究与生活叙事。
+本仓库用于展示ZOE的个人职业实践、研究与生活叙事。
 
-- 页面中的文字、视觉叙事与人物形象，除另有说明外，版权归严琰所有。
+- 页面中的文字、视觉叙事与人物形象，除另有说明外，版权归ZOE所有。
 - 未经授权，请勿将人物形象、个人照片或内容用于商业宣传、二次发布或训练用途。
 - 如需引用或交流，欢迎通过 GitHub Issue 或未来开放的联系入口留言。
 
-© 2026 严琰. All rights reserved.
+© 2026 ZOEYAN. All rights reserved.
